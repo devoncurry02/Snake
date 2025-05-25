@@ -4,7 +4,7 @@ This script loads a pygame console to play a beta version of Snake. This game is
 
 This is a python file that runs a simple version of the game Snake.
 
-[Software Demo Video]()
+[Software Demo Video](https://youtu.be/t6GP_J7zCGg)
 
 # Development Environment
 
@@ -18,4 +18,4 @@ Languages: Python
 * [GitHub](https://github.com/devoncurry02/Snake)
 * [Pygame](https://www.pygame.org/docs/ref/rect.html)
 * [Stack Overflow](https://stackoverflow.com/questions/64052211/placing-objects-at-random-places-in-pygame)
-* [Youtube]()
+* [Youtube](https://youtu.be/t6GP_J7zCGg)
